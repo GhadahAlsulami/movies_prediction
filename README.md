@@ -9,7 +9,7 @@ The goal is to help users discover **similar movies based on genre clustering**,
 ## 🛠 Tools & Technologies Used  
 - 🐍 **Python** – Core programming language for data analysis  
 - 📊 **Pandas & NumPy** – Data cleaning and manipulation  
-- 🤖 **Scikit-learn** – K-Means clustering model for grouping movies  
+- 🤖 **K-Means** – K-Means clustering model for grouping movies  
 - 🌐 **Streamlit** – Interactive web application for user-friendly movie recommendations  
 
 ## 🚀 Features  
